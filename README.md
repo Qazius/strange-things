@@ -1,4 +1,4 @@
- i make random
+i make random.
 
 #1 a typing bot in python
 - it types any text, somewhat realistically
