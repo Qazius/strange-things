@@ -1,6 +1,6 @@
 i make random.
 
-#1 a typing bot in python
+#1 a typing bot in python (Typer Mimic)
 - it types any text, somewhat realistically
 - groups spaces into tabs, 
 - consecutively repeated keys will be written fast; ++ (faster) vs += (delay between)
@@ -9,7 +9,7 @@ i make random.
   - delay and typing speed can be modified
   - additional keys (with custom delay) can be added
 
-#2 a minecraft (bedrock) bot in python
+#2 a minecraft (bedrock) bot in python (Minecraft Target Bot)
 - will turn towards the target (red colour, using a texture pack)
 - perform an action when the target is in crosshair
 - multiple actions
